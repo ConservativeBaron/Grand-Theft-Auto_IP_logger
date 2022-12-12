@@ -8,7 +8,7 @@ In order to use this tool, you'll need to meet the following requirements:
 2.  You must have a console running Grand Theft Auto 5 and a stable network connection.
 3.  The Linux machine must have the `tcpdump` utility and a Debian operating system.
 
-To use the tool, clone the GitHub repository and run the `main.py` file on your Linux machine, using the command `sudo bash main.py CONSOLES_LOCAL_IP_HERE`. The IP addresses of other players in your GTA 5 lobby will be displayed in the terminal.
+To use the tool, clone the GitHub repository and run the `Main.py` file on your Linux machine, using the command `sudo bash main.py CONSOLES_LOCAL_IP_HERE`. The IP addresses of other players in your GTA 5 lobby will be displayed in the terminal.
 
 ## DMCA & Copyright
 If any material used in this repository is owned or contributed by others, please contact me with any concerns and I will take it down promptly.
